@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf8" />
+    <title>chance dickson - recipes</title>
+  </head>
+  <body>
+    {% for recipe in collections.recipes %}
+    <ol>
+      <li>
+        <a href="{{ recipe.url }}">{{ recipe.data.title }}</a>
+      </li>
+    </ol>
+    {% endfor %}
+  </body>
+</html>
