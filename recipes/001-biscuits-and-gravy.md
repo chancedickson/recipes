@@ -16,7 +16,7 @@ title: Biscuits and Sausage Gravy
 ### Sausage Gravy
 
 1. 120g breakfast sausage
-2. 1 tbsp flour
+2. 15ml flour
 3. 235ml heavy cream
 
 ## Process
